@@ -1,0 +1,14 @@
+C:\Users\CEO\source\repos\Unidad_4\bin\Debug\Unidad_4.exe.config
+C:\Users\CEO\source\repos\Unidad_4\bin\Debug\Unidad_4.exe
+C:\Users\CEO\source\repos\Unidad_4\bin\Debug\Unidad_4.pdb
+C:\Users\CEO\source\repos\Unidad_4\obj\Debug\Unidad_4.csproj.AssemblyReference.cache
+C:\Users\CEO\source\repos\Unidad_4\obj\Debug\Unidad_4.Properties.Resources.resources
+C:\Users\CEO\source\repos\Unidad_4\obj\Debug\Unidad_4.csproj.GenerateResource.cache
+C:\Users\CEO\source\repos\Unidad_4\obj\Debug\Unidad_4.csproj.CoreCompileInputs.cache
+C:\Users\CEO\source\repos\Unidad_4\obj\Debug\Unidad_4.exe
+C:\Users\CEO\source\repos\Unidad_4\obj\Debug\Unidad_4.pdb
+C:\Users\CEO\source\repos\Unidad_4\obj\Debug\Unidad_4.FrmPrograma00.resources
+C:\Users\CEO\source\repos\Unidad_4\obj\Debug\Unidad_4.FrmPrograma03.resources
+C:\Users\CEO\source\repos\Unidad_4\obj\Debug\Unidad_4.FrmPrograma01.resources
+C:\Users\CEO\source\repos\Unidad_4\obj\Debug\Unidad_4.FrmPrograma04.resources
+C:\Users\CEO\source\repos\Unidad_4\obj\Debug\Unidad_4.UI.FrmEmpleado.resources
