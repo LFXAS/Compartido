@@ -1,0 +1,357 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\CEO\\source\\repos\\Unidad_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD1ECDD0-56EB-43E4-964F-7EE717547AC4}|Unidad_1.csproj|C:\\Users\\CEO\\source\\repos\\Unidad_1\\sumatoriawhile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD1ECDD0-56EB-43E4-964F-7EE717547AC4}|Unidad_1.csproj|solutionrelative:sumatoriawhile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD1ECDD0-56EB-43E4-964F-7EE717547AC4}|Unidad_1.csproj|c:\\users\\ceo\\source\\repos\\unidad_1\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD1ECDD0-56EB-43E4-964F-7EE717547AC4}|Unidad_1.csproj|solutionrelative:menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD1ECDD0-56EB-43E4-964F-7EE717547AC4}|Unidad_1.csproj|C:\\Users\\CEO\\source\\repos\\Unidad_1\\sumatoriadowhile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD1ECDD0-56EB-43E4-964F-7EE717547AC4}|Unidad_1.csproj|solutionrelative:sumatoriadowhile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Unidad_1||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD1ECDD0-56EB-43E4-964F-7EE717547AC4}|Unidad_1.csproj|C:\\Users\\CEO\\source\\repos\\Unidad_1\\sumatoriafor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD1ECDD0-56EB-43E4-964F-7EE717547AC4}|Unidad_1.csproj|solutionrelative:sumatoriafor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD1ECDD0-56EB-43E4-964F-7EE717547AC4}|Unidad_1.csproj|C:\\Users\\CEO\\source\\repos\\Unidad_1\\holamundo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD1ECDD0-56EB-43E4-964F-7EE717547AC4}|Unidad_1.csproj|solutionrelative:holamundo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD1ECDD0-56EB-43E4-964F-7EE717547AC4}|Unidad_1.csproj|C:\\Users\\CEO\\source\\repos\\Unidad_1\\mayormenor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD1ECDD0-56EB-43E4-964F-7EE717547AC4}|Unidad_1.csproj|solutionrelative:mayormenor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD1ECDD0-56EB-43E4-964F-7EE717547AC4}|Unidad_1.csproj|C:\\Users\\CEO\\source\\repos\\Unidad_1\\estadocivil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD1ECDD0-56EB-43E4-964F-7EE717547AC4}|Unidad_1.csproj|solutionrelative:estadocivil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD1ECDD0-56EB-43E4-964F-7EE717547AC4}|Unidad_1.csproj|C:\\Users\\CEO\\source\\repos\\Unidad_1\\tipotriangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD1ECDD0-56EB-43E4-964F-7EE717547AC4}|Unidad_1.csproj|solutionrelative:tipotriangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD1ECDD0-56EB-43E4-964F-7EE717547AC4}|Unidad_1.csproj|C:\\Users\\CEO\\source\\repos\\Unidad_1\\numerointermedio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD1ECDD0-56EB-43E4-964F-7EE717547AC4}|Unidad_1.csproj|solutionrelative:numerointermedio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD1ECDD0-56EB-43E4-964F-7EE717547AC4}|Unidad_1.csproj|C:\\Users\\CEO\\source\\repos\\Unidad_1\\calificacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD1ECDD0-56EB-43E4-964F-7EE717547AC4}|Unidad_1.csproj|solutionrelative:calificacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD1ECDD0-56EB-43E4-964F-7EE717547AC4}|Unidad_1.csproj|C:\\Users\\CEO\\source\\repos\\Unidad_1\\diasemana.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD1ECDD0-56EB-43E4-964F-7EE717547AC4}|Unidad_1.csproj|solutionrelative:diasemana.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD1ECDD0-56EB-43E4-964F-7EE717547AC4}|Unidad_1.csproj|C:\\Users\\CEO\\source\\repos\\Unidad_1\\bonoporhijo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD1ECDD0-56EB-43E4-964F-7EE717547AC4}|Unidad_1.csproj|solutionrelative:bonoporhijo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD1ECDD0-56EB-43E4-964F-7EE717547AC4}|Unidad_1.csproj|C:\\Users\\CEO\\source\\repos\\Unidad_1\\tarifaelectrica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD1ECDD0-56EB-43E4-964F-7EE717547AC4}|Unidad_1.csproj|solutionrelative:tarifaelectrica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD1ECDD0-56EB-43E4-964F-7EE717547AC4}|Unidad_1.csproj|C:\\Users\\CEO\\source\\repos\\Unidad_1\\operacionesaritmeticas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD1ECDD0-56EB-43E4-964F-7EE717547AC4}|Unidad_1.csproj|solutionrelative:operacionesaritmeticas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD1ECDD0-56EB-43E4-964F-7EE717547AC4}|Unidad_1.csproj|C:\\Users\\CEO\\source\\repos\\Unidad_1\\operacionesaritmeticas2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD1ECDD0-56EB-43E4-964F-7EE717547AC4}|Unidad_1.csproj|solutionrelative:operacionesaritmeticas2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD1ECDD0-56EB-43E4-964F-7EE717547AC4}|Unidad_1.csproj|C:\\Users\\CEO\\source\\repos\\Unidad_1\\tipodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD1ECDD0-56EB-43E4-964F-7EE717547AC4}|Unidad_1.csproj|solutionrelative:tipodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD1ECDD0-56EB-43E4-964F-7EE717547AC4}|Unidad_1.csproj|C:\\Users\\CEO\\source\\repos\\Unidad_1\\compracomidarapida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD1ECDD0-56EB-43E4-964F-7EE717547AC4}|Unidad_1.csproj|solutionrelative:compracomidarapida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD1ECDD0-56EB-43E4-964F-7EE717547AC4}|Unidad_1.csproj|C:\\Users\\CEO\\source\\repos\\Unidad_1\\invertirnumerotrescifras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD1ECDD0-56EB-43E4-964F-7EE717547AC4}|Unidad_1.csproj|solutionrelative:invertirnumerotrescifras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD1ECDD0-56EB-43E4-964F-7EE717547AC4}|Unidad_1.csproj|C:\\Users\\CEO\\source\\repos\\Unidad_1\\funcionesbasicasmath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD1ECDD0-56EB-43E4-964F-7EE717547AC4}|Unidad_1.csproj|solutionrelative:funcionesbasicasmath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD1ECDD0-56EB-43E4-964F-7EE717547AC4}|Unidad_1.csproj|C:\\Users\\CEO\\source\\repos\\Unidad_1\\invertirnumerodoscifras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD1ECDD0-56EB-43E4-964F-7EE717547AC4}|Unidad_1.csproj|solutionrelative:invertirnumerodoscifras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\CEO\\source\\repos\\Unidad_1\\Menu.cs",
+              "RelativeDocumentMoniker": "Menu.cs",
+              "ToolTip": "C:\\Users\\CEO\\source\\repos\\Unidad_1\\Menu.cs",
+              "RelativeToolTip": "Menu.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwCEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T01:26:37.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SumatoriaWhile.cs",
+              "DocumentMoniker": "C:\\Users\\CEO\\source\\repos\\Unidad_1\\SumatoriaWhile.cs",
+              "RelativeDocumentMoniker": "SumatoriaWhile.cs",
+              "ToolTip": "C:\\Users\\CEO\\source\\repos\\Unidad_1\\SumatoriaWhile.cs",
+              "RelativeToolTip": "SumatoriaWhile.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAQwBQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T13:42:10.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Unidad_1",
+              "DocumentMoniker": "C:\\Users\\CEO\\source\\repos\\Unidad_1\\Unidad_1.csproj",
+              "RelativeDocumentMoniker": "Unidad_1.csproj",
+              "ToolTip": "C:\\Users\\CEO\\source\\repos\\Unidad_1\\Unidad_1.csproj",
+              "RelativeToolTip": "Unidad_1.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-13T13:20:49.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SumatoriaFor.cs",
+              "DocumentMoniker": "C:\\Users\\CEO\\source\\repos\\Unidad_1\\SumatoriaFor.cs",
+              "RelativeDocumentMoniker": "SumatoriaFor.cs",
+              "ToolTip": "C:\\Users\\CEO\\source\\repos\\Unidad_1\\SumatoriaFor.cs",
+              "RelativeToolTip": "SumatoriaFor.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAgwBwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T13:18:38.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SumatoriaDoWhile.cs",
+              "DocumentMoniker": "C:\\Users\\CEO\\source\\repos\\Unidad_1\\SumatoriaDoWhile.cs",
+              "RelativeDocumentMoniker": "SumatoriaDoWhile.cs",
+              "ToolTip": "C:\\Users\\CEO\\source\\repos\\Unidad_1\\SumatoriaDoWhile.cs",
+              "RelativeToolTip": "SumatoriaDoWhile.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAqwB0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T12:41:12.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TipoTriangulo.cs",
+              "DocumentMoniker": "C:\\Users\\CEO\\source\\repos\\Unidad_1\\TipoTriangulo.cs",
+              "RelativeDocumentMoniker": "TipoTriangulo.cs",
+              "ToolTip": "C:\\Users\\CEO\\source\\repos\\Unidad_1\\TipoTriangulo.cs",
+              "RelativeToolTip": "TipoTriangulo.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACQAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T01:20:34.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NumeroIntermedio.cs",
+              "DocumentMoniker": "C:\\Users\\CEO\\source\\repos\\Unidad_1\\NumeroIntermedio.cs",
+              "RelativeDocumentMoniker": "NumeroIntermedio.cs",
+              "ToolTip": "C:\\Users\\CEO\\source\\repos\\Unidad_1\\NumeroIntermedio.cs",
+              "RelativeToolTip": "NumeroIntermedio.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAADwv0AAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T01:12:48.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MayorMenor.cs",
+              "DocumentMoniker": "C:\\Users\\CEO\\source\\repos\\Unidad_1\\MayorMenor.cs",
+              "RelativeDocumentMoniker": "MayorMenor.cs",
+              "ToolTip": "C:\\Users\\CEO\\source\\repos\\Unidad_1\\MayorMenor.cs",
+              "RelativeToolTip": "MayorMenor.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAvwAoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T00:18:41.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EstadoCivil.cs",
+              "DocumentMoniker": "C:\\Users\\CEO\\source\\repos\\Unidad_1\\EstadoCivil.cs",
+              "RelativeDocumentMoniker": "EstadoCivil.cs",
+              "ToolTip": "C:\\Users\\CEO\\source\\repos\\Unidad_1\\EstadoCivil.cs",
+              "RelativeToolTip": "EstadoCivil.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAswCwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T01:26:17.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DiaSemana.cs",
+              "DocumentMoniker": "C:\\Users\\CEO\\source\\repos\\Unidad_1\\DiaSemana.cs",
+              "RelativeDocumentMoniker": "DiaSemana.cs",
+              "ToolTip": "C:\\Users\\CEO\\source\\repos\\Unidad_1\\DiaSemana.cs",
+              "RelativeToolTip": "DiaSemana.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAADwvzsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T01:23:28.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Calificacion.cs",
+              "DocumentMoniker": "C:\\Users\\CEO\\source\\repos\\Unidad_1\\Calificacion.cs",
+              "RelativeDocumentMoniker": "Calificacion.cs",
+              "ToolTip": "C:\\Users\\CEO\\source\\repos\\Unidad_1\\Calificacion.cs",
+              "RelativeToolTip": "Calificacion.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAADwvxYAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T01:33:14.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BonoPorHijo.cs",
+              "DocumentMoniker": "C:\\Users\\CEO\\source\\repos\\Unidad_1\\BonoPorHijo.cs",
+              "RelativeDocumentMoniker": "BonoPorHijo.cs",
+              "ToolTip": "C:\\Users\\CEO\\source\\repos\\Unidad_1\\BonoPorHijo.cs",
+              "RelativeToolTip": "BonoPorHijo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T00:50:08.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CompraComidaRapida.cs",
+              "DocumentMoniker": "C:\\Users\\CEO\\source\\repos\\Unidad_1\\CompraComidaRapida.cs",
+              "RelativeDocumentMoniker": "CompraComidaRapida.cs",
+              "ToolTip": "C:\\Users\\CEO\\source\\repos\\Unidad_1\\CompraComidaRapida.cs",
+              "RelativeToolTip": "CompraComidaRapida.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T22:29:38.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HolaMundo.cs",
+              "DocumentMoniker": "C:\\Users\\CEO\\source\\repos\\Unidad_1\\HolaMundo.cs",
+              "RelativeDocumentMoniker": "HolaMundo.cs",
+              "ToolTip": "C:\\Users\\CEO\\source\\repos\\Unidad_1\\HolaMundo.cs",
+              "RelativeToolTip": "HolaMundo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T02:48:34.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TarifaElectrica.cs",
+              "DocumentMoniker": "C:\\Users\\CEO\\source\\repos\\Unidad_1\\TarifaElectrica.cs",
+              "RelativeDocumentMoniker": "TarifaElectrica.cs",
+              "ToolTip": "C:\\Users\\CEO\\source\\repos\\Unidad_1\\TarifaElectrica.cs",
+              "RelativeToolTip": "TarifaElectrica.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T01:18:24.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "InvertirNumeroTresCifras.cs",
+              "DocumentMoniker": "C:\\Users\\CEO\\source\\repos\\Unidad_1\\InvertirNumeroTresCifras.cs",
+              "RelativeDocumentMoniker": "InvertirNumeroTresCifras.cs",
+              "ToolTip": "C:\\Users\\CEO\\source\\repos\\Unidad_1\\InvertirNumeroTresCifras.cs",
+              "RelativeToolTip": "InvertirNumeroTresCifras.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T22:22:05.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "InvertirNumeroDosCifras.cs",
+              "DocumentMoniker": "C:\\Users\\CEO\\source\\repos\\Unidad_1\\InvertirNumeroDosCifras.cs",
+              "RelativeDocumentMoniker": "InvertirNumeroDosCifras.cs",
+              "ToolTip": "C:\\Users\\CEO\\source\\repos\\Unidad_1\\InvertirNumeroDosCifras.cs",
+              "RelativeToolTip": "InvertirNumeroDosCifras.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T22:17:18.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "OperacionesAritmeticas.cs",
+              "DocumentMoniker": "C:\\Users\\CEO\\source\\repos\\Unidad_1\\OperacionesAritmeticas.cs",
+              "RelativeDocumentMoniker": "OperacionesAritmeticas.cs",
+              "ToolTip": "C:\\Users\\CEO\\source\\repos\\Unidad_1\\OperacionesAritmeticas.cs",
+              "RelativeToolTip": "OperacionesAritmeticas.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T03:03:07.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FuncionesBasicasMath.cs",
+              "DocumentMoniker": "C:\\Users\\CEO\\source\\repos\\Unidad_1\\FuncionesBasicasMath.cs",
+              "RelativeDocumentMoniker": "FuncionesBasicasMath.cs",
+              "ToolTip": "C:\\Users\\CEO\\source\\repos\\Unidad_1\\FuncionesBasicasMath.cs",
+              "RelativeToolTip": "FuncionesBasicasMath.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwB0AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T22:32:58.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "OperacionesAritmeticas2.cs",
+              "DocumentMoniker": "C:\\Users\\CEO\\source\\repos\\Unidad_1\\OperacionesAritmeticas2.cs",
+              "RelativeDocumentMoniker": "OperacionesAritmeticas2.cs",
+              "ToolTip": "C:\\Users\\CEO\\source\\repos\\Unidad_1\\OperacionesAritmeticas2.cs",
+              "RelativeToolTip": "OperacionesAritmeticas2.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAIwDQAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T03:55:57.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TipoDatos.cs",
+              "DocumentMoniker": "C:\\Users\\CEO\\source\\repos\\Unidad_1\\TipoDatos.cs",
+              "RelativeDocumentMoniker": "TipoDatos.cs",
+              "ToolTip": "C:\\Users\\CEO\\source\\repos\\Unidad_1\\TipoDatos.cs",
+              "RelativeToolTip": "TipoDatos.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T02:56:07.662Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
