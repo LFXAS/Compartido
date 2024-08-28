@@ -1,0 +1,14 @@
+C:\Users\CEO\source\repos\Unidad_2\bin\Debug\Unidad_2.exe.config
+C:\Users\CEO\source\repos\Unidad_2\bin\Debug\Unidad_2.exe
+C:\Users\CEO\source\repos\Unidad_2\bin\Debug\Unidad_2.pdb
+C:\Users\CEO\source\repos\Unidad_2\obj\Debug\Unidad_2.csproj.AssemblyReference.cache
+C:\Users\CEO\source\repos\Unidad_2\obj\Debug\Unidad_2.csproj.CoreCompileInputs.cache
+C:\Users\CEO\source\repos\Unidad_2\obj\Debug\Unidad_2.exe
+C:\Users\CEO\source\repos\Unidad_2\obj\Debug\Unidad_2.pdb
+C:\Users\CEO\Documents\GitHub\Compartido\EC\2024-Semestre-II\ED\Unidad_2\bin\Debug\Unidad_2.exe.config
+C:\Users\CEO\Documents\GitHub\Compartido\EC\2024-Semestre-II\ED\Unidad_2\bin\Debug\Unidad_2.exe
+C:\Users\CEO\Documents\GitHub\Compartido\EC\2024-Semestre-II\ED\Unidad_2\bin\Debug\Unidad_2.pdb
+C:\Users\CEO\Documents\GitHub\Compartido\EC\2024-Semestre-II\ED\Unidad_2\obj\Debug\Unidad_2.csproj.AssemblyReference.cache
+C:\Users\CEO\Documents\GitHub\Compartido\EC\2024-Semestre-II\ED\Unidad_2\obj\Debug\Unidad_2.csproj.CoreCompileInputs.cache
+C:\Users\CEO\Documents\GitHub\Compartido\EC\2024-Semestre-II\ED\Unidad_2\obj\Debug\Unidad_2.exe
+C:\Users\CEO\Documents\GitHub\Compartido\EC\2024-Semestre-II\ED\Unidad_2\obj\Debug\Unidad_2.pdb
