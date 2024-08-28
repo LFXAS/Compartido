@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Unidad_1.Menu</StartupObject>
+    <StartupObject>Unidad_1.TipoDatos</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -46,29 +46,29 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Calificacion.cs" />
-    <Compile Include="CompraComidaRapida.cs" />
-    <Compile Include="DiaSemana.cs" />
-    <Compile Include="EstadoCivil.cs" />
-    <Compile Include="FormatosSalida.cs" />
-    <Compile Include="FuncionesBasicasMath.cs" />
-    <Compile Include="HolaMundo.cs" />
-    <Compile Include="InvertirNumeroDosCifras.cs" />
-    <Compile Include="InvertirNumeroTresCifras.cs" />
-    <Compile Include="MayorMenor.cs" />
-    <Compile Include="BonoPorHijo.cs" />
-    <Compile Include="Menu.cs" />
-    <Compile Include="miPrimeraFuncion.cs" />
-    <Compile Include="NumeroIntermedio.cs" />
-    <Compile Include="OperacionesAritmeticas.cs" />
-    <Compile Include="OperacionesAritmeticas2.cs" />
+    <Compile Include="15_Calificacion.cs" />
+    <Compile Include="06_CompraComidaRapida.cs" />
+    <Compile Include="16_DiaSemana.cs" />
+    <Compile Include="19_EstadoCivil.cs" />
+    <Compile Include="05_FormatosSalida.cs" />
+    <Compile Include="07_FuncionesBasicasMath.cs" />
+    <Compile Include="00_HolaMundo.cs" />
+    <Compile Include="08_InvertirNumeroDosCifras.cs" />
+    <Compile Include="09_InvertirNumeroTresCifras.cs" />
+    <Compile Include="13_MayorMenor.cs" />
+    <Compile Include="10_BonoPorHijo.cs" />
+    <Compile Include="22_Menu.cs" />
+    <Compile Include="21_miPrimeraFuncion.cs" />
+    <Compile Include="14_NumeroIntermedio.cs" />
+    <Compile Include="03_OperacionesAritmeticas.cs" />
+    <Compile Include="04_OperacionesAritmeticas2.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="SumatoriaDoWhile.cs" />
-    <Compile Include="SumatoriaFor.cs" />
-    <Compile Include="SumatoriaWhile.cs" />
-    <Compile Include="TarifaElectrica.cs" />
+    <Compile Include="18_SumatoriaDoWhile.cs" />
+    <Compile Include="17_SumatoriaFor.cs" />
+    <Compile Include="20_SumatoriaWhile.cs" />
+    <Compile Include="11_TarifaElectrica.cs" />
     <Compile Include="01_TipoDatos.cs" />
-    <Compile Include="TipoTriangulo.cs" />
+    <Compile Include="12_TipoTriangulo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

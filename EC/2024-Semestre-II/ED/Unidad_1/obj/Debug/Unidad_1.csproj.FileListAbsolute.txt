@@ -5,3 +5,10 @@ C:\Users\CEO\source\repos\Unidad_1\obj\Debug\Unidad_1.csproj.AssemblyReference.c
 C:\Users\CEO\source\repos\Unidad_1\obj\Debug\Unidad_1.csproj.CoreCompileInputs.cache
 C:\Users\CEO\source\repos\Unidad_1\obj\Debug\Unidad_1.exe
 C:\Users\CEO\source\repos\Unidad_1\obj\Debug\Unidad_1.pdb
+C:\Users\CEO\Documents\GitHub\Compartido\EC\2024-Semestre-II\ED\Unidad_1\bin\Debug\Unidad_1.exe.config
+C:\Users\CEO\Documents\GitHub\Compartido\EC\2024-Semestre-II\ED\Unidad_1\bin\Debug\Unidad_1.exe
+C:\Users\CEO\Documents\GitHub\Compartido\EC\2024-Semestre-II\ED\Unidad_1\bin\Debug\Unidad_1.pdb
+C:\Users\CEO\Documents\GitHub\Compartido\EC\2024-Semestre-II\ED\Unidad_1\obj\Debug\Unidad_1.csproj.AssemblyReference.cache
+C:\Users\CEO\Documents\GitHub\Compartido\EC\2024-Semestre-II\ED\Unidad_1\obj\Debug\Unidad_1.csproj.CoreCompileInputs.cache
+C:\Users\CEO\Documents\GitHub\Compartido\EC\2024-Semestre-II\ED\Unidad_1\obj\Debug\Unidad_1.exe
+C:\Users\CEO\Documents\GitHub\Compartido\EC\2024-Semestre-II\ED\Unidad_1\obj\Debug\Unidad_1.pdb
