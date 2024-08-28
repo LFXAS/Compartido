@@ -67,7 +67,7 @@
     <Compile Include="SumatoriaFor.cs" />
     <Compile Include="SumatoriaWhile.cs" />
     <Compile Include="TarifaElectrica.cs" />
-    <Compile Include="TipoDatos.cs" />
+    <Compile Include="01_TipoDatos.cs" />
     <Compile Include="TipoTriangulo.cs" />
   </ItemGroup>
   <ItemGroup>
