@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Unidad_1.TipoDatos</StartupObject>
+    <StartupObject>Unidad_1.FormatosSalida</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
