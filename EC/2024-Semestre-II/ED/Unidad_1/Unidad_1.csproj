@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Unidad_1.OperacionesAritmeticas</StartupObject>
+    <StartupObject>Unidad_1.Menu</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />

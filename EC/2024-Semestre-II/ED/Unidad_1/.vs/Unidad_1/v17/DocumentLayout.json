@@ -3,24 +3,98 @@
   "WorkspaceRootPath": "C:\\Users\\CEO\\Documents\\GitHub\\Compartido\\EC\\2024-Semestre-II\\ED\\Unidad_1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{BD1ECDD0-56EB-43E4-964F-7EE717547AC4}|Unidad_1.csproj|c:\\users\\ceo\\documents\\github\\compartido\\ec\\2024-semestre-ii\\ed\\unidad_1\\20_sumatoriawhile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD1ECDD0-56EB-43E4-964F-7EE717547AC4}|Unidad_1.csproj|solutionrelative:20_sumatoriawhile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Unidad_1||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD1ECDD0-56EB-43E4-964F-7EE717547AC4}|Unidad_1.csproj|c:\\users\\ceo\\documents\\github\\compartido\\ec\\2024-semestre-ii\\ed\\unidad_1\\22_menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD1ECDD0-56EB-43E4-964F-7EE717547AC4}|Unidad_1.csproj|solutionrelative:22_menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD1ECDD0-56EB-43E4-964F-7EE717547AC4}|Unidad_1.csproj|c:\\users\\ceo\\documents\\github\\compartido\\ec\\2024-semestre-ii\\ed\\unidad_1\\21_miprimerafuncion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD1ECDD0-56EB-43E4-964F-7EE717547AC4}|Unidad_1.csproj|solutionrelative:21_miprimerafuncion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD1ECDD0-56EB-43E4-964F-7EE717547AC4}|Unidad_1.csproj|c:\\users\\ceo\\documents\\github\\compartido\\ec\\2024-semestre-ii\\ed\\unidad_1\\19_estadocivil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD1ECDD0-56EB-43E4-964F-7EE717547AC4}|Unidad_1.csproj|solutionrelative:19_estadocivil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD1ECDD0-56EB-43E4-964F-7EE717547AC4}|Unidad_1.csproj|c:\\users\\ceo\\documents\\github\\compartido\\ec\\2024-semestre-ii\\ed\\unidad_1\\18_sumatoriadowhile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD1ECDD0-56EB-43E4-964F-7EE717547AC4}|Unidad_1.csproj|solutionrelative:18_sumatoriadowhile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD1ECDD0-56EB-43E4-964F-7EE717547AC4}|Unidad_1.csproj|c:\\users\\ceo\\documents\\github\\compartido\\ec\\2024-semestre-ii\\ed\\unidad_1\\17_sumatoriafor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD1ECDD0-56EB-43E4-964F-7EE717547AC4}|Unidad_1.csproj|solutionrelative:17_sumatoriafor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD1ECDD0-56EB-43E4-964F-7EE717547AC4}|Unidad_1.csproj|c:\\users\\ceo\\documents\\github\\compartido\\ec\\2024-semestre-ii\\ed\\unidad_1\\16_diasemana.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD1ECDD0-56EB-43E4-964F-7EE717547AC4}|Unidad_1.csproj|solutionrelative:16_diasemana.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD1ECDD0-56EB-43E4-964F-7EE717547AC4}|Unidad_1.csproj|c:\\users\\ceo\\documents\\github\\compartido\\ec\\2024-semestre-ii\\ed\\unidad_1\\15_calificacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD1ECDD0-56EB-43E4-964F-7EE717547AC4}|Unidad_1.csproj|solutionrelative:15_calificacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD1ECDD0-56EB-43E4-964F-7EE717547AC4}|Unidad_1.csproj|c:\\users\\ceo\\documents\\github\\compartido\\ec\\2024-semestre-ii\\ed\\unidad_1\\14_numerointermedio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD1ECDD0-56EB-43E4-964F-7EE717547AC4}|Unidad_1.csproj|solutionrelative:14_numerointermedio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD1ECDD0-56EB-43E4-964F-7EE717547AC4}|Unidad_1.csproj|c:\\users\\ceo\\documents\\github\\compartido\\ec\\2024-semestre-ii\\ed\\unidad_1\\13_mayormenor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD1ECDD0-56EB-43E4-964F-7EE717547AC4}|Unidad_1.csproj|solutionrelative:13_mayormenor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD1ECDD0-56EB-43E4-964F-7EE717547AC4}|Unidad_1.csproj|c:\\users\\ceo\\documents\\github\\compartido\\ec\\2024-semestre-ii\\ed\\unidad_1\\12_tipotriangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD1ECDD0-56EB-43E4-964F-7EE717547AC4}|Unidad_1.csproj|solutionrelative:12_tipotriangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD1ECDD0-56EB-43E4-964F-7EE717547AC4}|Unidad_1.csproj|c:\\users\\ceo\\documents\\github\\compartido\\ec\\2024-semestre-ii\\ed\\unidad_1\\11_tarifaelectrica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD1ECDD0-56EB-43E4-964F-7EE717547AC4}|Unidad_1.csproj|solutionrelative:11_tarifaelectrica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD1ECDD0-56EB-43E4-964F-7EE717547AC4}|Unidad_1.csproj|c:\\users\\ceo\\documents\\github\\compartido\\ec\\2024-semestre-ii\\ed\\unidad_1\\10_bonoporhijo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD1ECDD0-56EB-43E4-964F-7EE717547AC4}|Unidad_1.csproj|solutionrelative:10_bonoporhijo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD1ECDD0-56EB-43E4-964F-7EE717547AC4}|Unidad_1.csproj|c:\\users\\ceo\\documents\\github\\compartido\\ec\\2024-semestre-ii\\ed\\unidad_1\\09_invertirnumerotrescifras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD1ECDD0-56EB-43E4-964F-7EE717547AC4}|Unidad_1.csproj|solutionrelative:09_invertirnumerotrescifras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD1ECDD0-56EB-43E4-964F-7EE717547AC4}|Unidad_1.csproj|c:\\users\\ceo\\documents\\github\\compartido\\ec\\2024-semestre-ii\\ed\\unidad_1\\08_invertirnumerodoscifras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD1ECDD0-56EB-43E4-964F-7EE717547AC4}|Unidad_1.csproj|solutionrelative:08_invertirnumerodoscifras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD1ECDD0-56EB-43E4-964F-7EE717547AC4}|Unidad_1.csproj|c:\\users\\ceo\\documents\\github\\compartido\\ec\\2024-semestre-ii\\ed\\unidad_1\\07_funcionesbasicasmath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD1ECDD0-56EB-43E4-964F-7EE717547AC4}|Unidad_1.csproj|solutionrelative:07_funcionesbasicasmath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD1ECDD0-56EB-43E4-964F-7EE717547AC4}|Unidad_1.csproj|c:\\users\\ceo\\documents\\github\\compartido\\ec\\2024-semestre-ii\\ed\\unidad_1\\06_compracomidarapida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD1ECDD0-56EB-43E4-964F-7EE717547AC4}|Unidad_1.csproj|solutionrelative:06_compracomidarapida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BD1ECDD0-56EB-43E4-964F-7EE717547AC4}|Unidad_1.csproj|c:\\users\\ceo\\documents\\github\\compartido\\ec\\2024-semestre-ii\\ed\\unidad_1\\05_formatossalida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BD1ECDD0-56EB-43E4-964F-7EE717547AC4}|Unidad_1.csproj|solutionrelative:05_formatossalida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BD1ECDD0-56EB-43E4-964F-7EE717547AC4}|Unidad_1.csproj|C:\\Users\\CEO\\Documents\\GitHub\\Compartido\\EC\\2024-Semestre-II\\ED\\Unidad_1\\03_operacionesaritmeticas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BD1ECDD0-56EB-43E4-964F-7EE717547AC4}|Unidad_1.csproj|solutionrelative:03_operacionesaritmeticas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BD1ECDD0-56EB-43E4-964F-7EE717547AC4}|Unidad_1.csproj|C:\\Users\\CEO\\Documents\\GitHub\\Compartido\\EC\\2024-Semestre-II\\ED\\Unidad_1\\04_operacionesaritmeticas2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD1ECDD0-56EB-43E4-964F-7EE717547AC4}|Unidad_1.csproj|solutionrelative:04_operacionesaritmeticas2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BD1ECDD0-56EB-43E4-964F-7EE717547AC4}|Unidad_1.csproj|C:\\Users\\CEO\\Documents\\GitHub\\Compartido\\EC\\2024-Semestre-II\\ED\\Unidad_1\\01_tipodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BD1ECDD0-56EB-43E4-964F-7EE717547AC4}|Unidad_1.csproj|solutionrelative:01_tipodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{BD1ECDD0-56EB-43E4-964F-7EE717547AC4}|Unidad_1.csproj|C:\\Users\\CEO\\Documents\\GitHub\\Compartido\\EC\\2024-Semestre-II\\ED\\Unidad_1\\03_operacionesaritmeticas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD1ECDD0-56EB-43E4-964F-7EE717547AC4}|Unidad_1.csproj|solutionrelative:03_operacionesaritmeticas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BD1ECDD0-56EB-43E4-964F-7EE717547AC4}|Unidad_1.csproj|C:\\Users\\CEO\\Documents\\GitHub\\Compartido\\EC\\2024-Semestre-II\\ED\\Unidad_1\\00_holamundo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BD1ECDD0-56EB-43E4-964F-7EE717547AC4}|Unidad_1.csproj|solutionrelative:00_holamundo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BD1ECDD0-56EB-43E4-964F-7EE717547AC4}|Unidad_1.csproj|C:\\Users\\CEO\\Documents\\GitHub\\Compartido\\EC\\2024-Semestre-II\\ED\\Unidad_1\\04_operacionesaritmeticas2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BD1ECDD0-56EB-43E4-964F-7EE717547AC4}|Unidad_1.csproj|solutionrelative:04_operacionesaritmeticas2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BD1ECDD0-56EB-43E4-964F-7EE717547AC4}|Unidad_1.csproj|c:\\users\\ceo\\documents\\github\\compartido\\ec\\2024-semestre-ii\\ed\\unidad_1\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +104,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,32 +112,266 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "22_Menu.cs",
+              "DocumentMoniker": "C:\\Users\\CEO\\Documents\\GitHub\\Compartido\\EC\\2024-Semestre-II\\ED\\Unidad_1\\22_Menu.cs",
+              "RelativeDocumentMoniker": "22_Menu.cs",
+              "ToolTip": "C:\\Users\\CEO\\Documents\\GitHub\\Compartido\\EC\\2024-Semestre-II\\ED\\Unidad_1\\22_Menu.cs",
+              "RelativeToolTip": "22_Menu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T01:33:32.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "20_SumatoriaWhile.cs",
+              "DocumentMoniker": "C:\\Users\\CEO\\Documents\\GitHub\\Compartido\\EC\\2024-Semestre-II\\ED\\Unidad_1\\20_SumatoriaWhile.cs",
+              "RelativeDocumentMoniker": "20_SumatoriaWhile.cs",
+              "ToolTip": "C:\\Users\\CEO\\Documents\\GitHub\\Compartido\\EC\\2024-Semestre-II\\ED\\Unidad_1\\20_SumatoriaWhile.cs",
+              "RelativeToolTip": "20_SumatoriaWhile.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T01:33:16.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "15_Calificacion.cs",
+              "DocumentMoniker": "C:\\Users\\CEO\\Documents\\GitHub\\Compartido\\EC\\2024-Semestre-II\\ED\\Unidad_1\\15_Calificacion.cs",
+              "RelativeDocumentMoniker": "15_Calificacion.cs",
+              "ToolTip": "C:\\Users\\CEO\\Documents\\GitHub\\Compartido\\EC\\2024-Semestre-II\\ED\\Unidad_1\\15_Calificacion.cs",
+              "RelativeToolTip": "15_Calificacion.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T01:27:25.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "14_NumeroIntermedio.cs",
+              "DocumentMoniker": "C:\\Users\\CEO\\Documents\\GitHub\\Compartido\\EC\\2024-Semestre-II\\ED\\Unidad_1\\14_NumeroIntermedio.cs",
+              "RelativeDocumentMoniker": "14_NumeroIntermedio.cs",
+              "ToolTip": "C:\\Users\\CEO\\Documents\\GitHub\\Compartido\\EC\\2024-Semestre-II\\ED\\Unidad_1\\14_NumeroIntermedio.cs",
+              "RelativeToolTip": "14_NumeroIntermedio.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAWwD0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T01:10:47.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "13_MayorMenor.cs",
+              "DocumentMoniker": "C:\\Users\\CEO\\Documents\\GitHub\\Compartido\\EC\\2024-Semestre-II\\ED\\Unidad_1\\13_MayorMenor.cs",
+              "RelativeDocumentMoniker": "13_MayorMenor.cs",
+              "ToolTip": "C:\\Users\\CEO\\Documents\\GitHub\\Compartido\\EC\\2024-Semestre-II\\ED\\Unidad_1\\13_MayorMenor.cs",
+              "RelativeToolTip": "13_MayorMenor.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T01:10:47.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "19_EstadoCivil.cs",
+              "DocumentMoniker": "C:\\Users\\CEO\\Documents\\GitHub\\Compartido\\EC\\2024-Semestre-II\\ED\\Unidad_1\\19_EstadoCivil.cs",
+              "RelativeDocumentMoniker": "19_EstadoCivil.cs",
+              "ToolTip": "C:\\Users\\CEO\\Documents\\GitHub\\Compartido\\EC\\2024-Semestre-II\\ED\\Unidad_1\\19_EstadoCivil.cs",
+              "RelativeToolTip": "19_EstadoCivil.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAmwBQAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T01:10:47.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "18_SumatoriaDoWhile.cs",
+              "DocumentMoniker": "C:\\Users\\CEO\\Documents\\GitHub\\Compartido\\EC\\2024-Semestre-II\\ED\\Unidad_1\\18_SumatoriaDoWhile.cs",
+              "RelativeDocumentMoniker": "18_SumatoriaDoWhile.cs",
+              "ToolTip": "C:\\Users\\CEO\\Documents\\GitHub\\Compartido\\EC\\2024-Semestre-II\\ED\\Unidad_1\\18_SumatoriaDoWhile.cs",
+              "RelativeToolTip": "18_SumatoriaDoWhile.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T01:10:47.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Unidad_1",
+              "DocumentMoniker": "C:\\Users\\CEO\\Documents\\GitHub\\Compartido\\EC\\2024-Semestre-II\\ED\\Unidad_1\\Unidad_1.csproj",
+              "RelativeDocumentMoniker": "Unidad_1.csproj",
+              "ToolTip": "C:\\Users\\CEO\\Documents\\GitHub\\Compartido\\EC\\2024-Semestre-II\\ED\\Unidad_1\\Unidad_1.csproj",
+              "RelativeToolTip": "Unidad_1.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-09T01:10:33.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "21_miPrimeraFuncion.cs",
+              "DocumentMoniker": "C:\\Users\\CEO\\Documents\\GitHub\\Compartido\\EC\\2024-Semestre-II\\ED\\Unidad_1\\21_miPrimeraFuncion.cs",
+              "RelativeDocumentMoniker": "21_miPrimeraFuncion.cs",
+              "ToolTip": "C:\\Users\\CEO\\Documents\\GitHub\\Compartido\\EC\\2024-Semestre-II\\ED\\Unidad_1\\21_miPrimeraFuncion.cs",
+              "RelativeToolTip": "21_miPrimeraFuncion.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T01:10:47.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "16_DiaSemana.cs",
+              "DocumentMoniker": "C:\\Users\\CEO\\Documents\\GitHub\\Compartido\\EC\\2024-Semestre-II\\ED\\Unidad_1\\16_DiaSemana.cs",
+              "RelativeDocumentMoniker": "16_DiaSemana.cs",
+              "ToolTip": "C:\\Users\\CEO\\Documents\\GitHub\\Compartido\\EC\\2024-Semestre-II\\ED\\Unidad_1\\16_DiaSemana.cs",
+              "RelativeToolTip": "16_DiaSemana.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T01:29:27.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "17_SumatoriaFor.cs",
+              "DocumentMoniker": "C:\\Users\\CEO\\Documents\\GitHub\\Compartido\\EC\\2024-Semestre-II\\ED\\Unidad_1\\17_SumatoriaFor.cs",
+              "RelativeDocumentMoniker": "17_SumatoriaFor.cs",
+              "ToolTip": "C:\\Users\\CEO\\Documents\\GitHub\\Compartido\\EC\\2024-Semestre-II\\ED\\Unidad_1\\17_SumatoriaFor.cs",
+              "RelativeToolTip": "17_SumatoriaFor.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T01:10:47.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "12_TipoTriangulo.cs",
+              "DocumentMoniker": "C:\\Users\\CEO\\Documents\\GitHub\\Compartido\\EC\\2024-Semestre-II\\ED\\Unidad_1\\12_TipoTriangulo.cs",
+              "RelativeDocumentMoniker": "12_TipoTriangulo.cs",
+              "ToolTip": "C:\\Users\\CEO\\Documents\\GitHub\\Compartido\\EC\\2024-Semestre-II\\ED\\Unidad_1\\12_TipoTriangulo.cs",
+              "RelativeToolTip": "12_TipoTriangulo.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA1wBEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T01:09:24.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "11_TarifaElectrica.cs",
+              "DocumentMoniker": "C:\\Users\\CEO\\Documents\\GitHub\\Compartido\\EC\\2024-Semestre-II\\ED\\Unidad_1\\11_TarifaElectrica.cs",
+              "RelativeDocumentMoniker": "11_TarifaElectrica.cs",
+              "ToolTip": "C:\\Users\\CEO\\Documents\\GitHub\\Compartido\\EC\\2024-Semestre-II\\ED\\Unidad_1\\11_TarifaElectrica.cs",
+              "RelativeToolTip": "11_TarifaElectrica.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T01:08:12.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "10_BonoPorHijo.cs",
+              "DocumentMoniker": "C:\\Users\\CEO\\Documents\\GitHub\\Compartido\\EC\\2024-Semestre-II\\ED\\Unidad_1\\10_BonoPorHijo.cs",
+              "RelativeDocumentMoniker": "10_BonoPorHijo.cs",
+              "ToolTip": "C:\\Users\\CEO\\Documents\\GitHub\\Compartido\\EC\\2024-Semestre-II\\ED\\Unidad_1\\10_BonoPorHijo.cs",
+              "RelativeToolTip": "10_BonoPorHijo.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T01:07:25.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "09_InvertirNumeroTresCifras.cs",
+              "DocumentMoniker": "C:\\Users\\CEO\\Documents\\GitHub\\Compartido\\EC\\2024-Semestre-II\\ED\\Unidad_1\\09_InvertirNumeroTresCifras.cs",
+              "RelativeDocumentMoniker": "09_InvertirNumeroTresCifras.cs",
+              "ToolTip": "C:\\Users\\CEO\\Documents\\GitHub\\Compartido\\EC\\2024-Semestre-II\\ED\\Unidad_1\\09_InvertirNumeroTresCifras.cs",
+              "RelativeToolTip": "09_InvertirNumeroTresCifras.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T00:57:57.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "08_InvertirNumeroDosCifras.cs",
+              "DocumentMoniker": "C:\\Users\\CEO\\Documents\\GitHub\\Compartido\\EC\\2024-Semestre-II\\ED\\Unidad_1\\08_InvertirNumeroDosCifras.cs",
+              "RelativeDocumentMoniker": "08_InvertirNumeroDosCifras.cs",
+              "ToolTip": "C:\\Users\\CEO\\Documents\\GitHub\\Compartido\\EC\\2024-Semestre-II\\ED\\Unidad_1\\08_InvertirNumeroDosCifras.cs",
+              "RelativeToolTip": "08_InvertirNumeroDosCifras.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T00:54:49.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "07_FuncionesBasicasMath.cs",
+              "DocumentMoniker": "C:\\Users\\CEO\\Documents\\GitHub\\Compartido\\EC\\2024-Semestre-II\\ED\\Unidad_1\\07_FuncionesBasicasMath.cs",
+              "RelativeDocumentMoniker": "07_FuncionesBasicasMath.cs",
+              "ToolTip": "C:\\Users\\CEO\\Documents\\GitHub\\Compartido\\EC\\2024-Semestre-II\\ED\\Unidad_1\\07_FuncionesBasicasMath.cs",
+              "RelativeToolTip": "07_FuncionesBasicasMath.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T00:53:27.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "06_CompraComidaRapida.cs",
+              "DocumentMoniker": "C:\\Users\\CEO\\Documents\\GitHub\\Compartido\\EC\\2024-Semestre-II\\ED\\Unidad_1\\06_CompraComidaRapida.cs",
+              "RelativeDocumentMoniker": "06_CompraComidaRapida.cs",
+              "ToolTip": "C:\\Users\\CEO\\Documents\\GitHub\\Compartido\\EC\\2024-Semestre-II\\ED\\Unidad_1\\06_CompraComidaRapida.cs",
+              "RelativeToolTip": "06_CompraComidaRapida.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABwAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T00:35:54.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "05_FormatosSalida.cs",
               "DocumentMoniker": "C:\\Users\\CEO\\Documents\\GitHub\\Compartido\\EC\\2024-Semestre-II\\ED\\Unidad_1\\05_FormatosSalida.cs",
               "RelativeDocumentMoniker": "05_FormatosSalida.cs",
               "ToolTip": "C:\\Users\\CEO\\Documents\\GitHub\\Compartido\\EC\\2024-Semestre-II\\ED\\Unidad_1\\05_FormatosSalida.cs",
               "RelativeToolTip": "05_FormatosSalida.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAAnAAAA",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA1wAwAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-04T05:29:49.696Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 19,
               "Title": "04_OperacionesAritmeticas2.cs",
               "DocumentMoniker": "C:\\Users\\CEO\\Documents\\GitHub\\Compartido\\EC\\2024-Semestre-II\\ED\\Unidad_1\\04_OperacionesAritmeticas2.cs",
               "RelativeDocumentMoniker": "04_OperacionesAritmeticas2.cs",
               "ToolTip": "C:\\Users\\CEO\\Documents\\GitHub\\Compartido\\EC\\2024-Semestre-II\\ED\\Unidad_1\\04_OperacionesAritmeticas2.cs",
               "RelativeToolTip": "04_OperacionesAritmeticas2.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAgwAAAAAAAAAAA",
+              "ViewState": "AQIAABwAAAAAAAAAAAAgwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-04T05:27:56.448Z"
+              "WhenOpened": "2024-09-04T05:27:56.448Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 21,
               "Title": "03_OperacionesAritmeticas.cs",
               "DocumentMoniker": "C:\\Users\\CEO\\Documents\\GitHub\\Compartido\\EC\\2024-Semestre-II\\ED\\Unidad_1\\03_OperacionesAritmeticas.cs",
               "RelativeDocumentMoniker": "03_OperacionesAritmeticas.cs",
@@ -71,25 +379,24 @@
               "RelativeToolTip": "03_OperacionesAritmeticas.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAABIAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-04T05:26:09.691Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-04T05:26:09.691Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 20,
               "Title": "01_TipoDatos.cs",
               "DocumentMoniker": "C:\\Users\\CEO\\Documents\\GitHub\\Compartido\\EC\\2024-Semestre-II\\ED\\Unidad_1\\01_TipoDatos.cs",
               "RelativeDocumentMoniker": "01_TipoDatos.cs",
               "ToolTip": "C:\\Users\\CEO\\Documents\\GitHub\\Compartido\\EC\\2024-Semestre-II\\ED\\Unidad_1\\01_TipoDatos.cs",
               "RelativeToolTip": "01_TipoDatos.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-02T12:27:14.06Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 22,
               "Title": "00_HolaMundo.cs",
               "DocumentMoniker": "C:\\Users\\CEO\\Documents\\GitHub\\Compartido\\EC\\2024-Semestre-II\\ED\\Unidad_1\\00_HolaMundo.cs",
               "RelativeDocumentMoniker": "00_HolaMundo.cs",
@@ -97,8 +404,7 @@
               "RelativeToolTip": "00_HolaMundo.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T12:27:08.547Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-02T12:27:08.547Z"
             }
           ]
         }
