@@ -54,16 +54,17 @@ namespace Unidad_2
 
 
         // Constructor de la clase Persona
-        public Persona(string nombre, int edad)
+        /*public Persona(string nombre, int edad)
         {
             this.nombre = nombre;
             this.edad = edad;
-        }
+        }*/
 
         // Método de la clase Persona
         public void MostrarInformacion()
         {
             Console.WriteLine($"Nombre: {Nombre}, Edad: {Edad}");
+    
         }
     }
 
@@ -72,14 +73,14 @@ namespace Unidad_2
         static void Main(string[] args)
         {
             // Crear un objeto de la clase Persona
-            Persona persona1 = new Persona("Juan", 25);
-            //Persona persona2 = new Persona();
-            //persona2.Nombre = "Pablo";
-            //persona2.Edad = 25;
-            // Llamar al método MostrarInformacion
-            //persona1.MostrarInformacion();
-            Console.WriteLine("Nombre de la persona:{0}", persona1.Nombre);
-            Console.WriteLine("Edad de la persona:{0}", persona1.Edad);
+            //Persona persona1 = new Persona("Juan", 25);
+            Persona persona2 = new Persona();
+            persona2.Nombre = "Pablo";
+            persona2.Edad = 25;
+            //Llamar al método MostrarInformacion
+            persona2.MostrarInformacion();
+            //Console.WriteLine("Nombre de la persona:{0}", persona1.Nombre);
+            //Console.WriteLine("Edad de la persona:{0}", persona1.Edad);
             Console.ReadKey();
         }
     }

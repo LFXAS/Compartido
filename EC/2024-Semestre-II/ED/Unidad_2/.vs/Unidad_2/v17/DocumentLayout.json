@@ -3,43 +3,43 @@
   "WorkspaceRootPath": "C:\\Users\\CEO\\Documents\\GitHub\\Compartido\\EC\\2024-Semestre-II\\ED\\Unidad_2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{09BDD90C-F9AD-405E-A92C-10756606D66D}|Unidad_2.csproj|c:\\users\\ceo\\documents\\github\\compartido\\ec\\2024-semestre-ii\\ed\\unidad_2\\08_composicion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09BDD90C-F9AD-405E-A92C-10756606D66D}|Unidad_2.csproj|solutionrelative:08_composicion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{09BDD90C-F9AD-405E-A92C-10756606D66D}|Unidad_2.csproj|c:\\users\\ceo\\documents\\github\\compartido\\ec\\2024-semestre-ii\\ed\\unidad_2\\07_persona3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09BDD90C-F9AD-405E-A92C-10756606D66D}|Unidad_2.csproj|solutionrelative:07_persona3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{09BDD90C-F9AD-405E-A92C-10756606D66D}|Unidad_2.csproj|c:\\users\\ceo\\documents\\github\\compartido\\ec\\2024-semestre-ii\\ed\\unidad_2\\06_persona2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09BDD90C-F9AD-405E-A92C-10756606D66D}|Unidad_2.csproj|solutionrelative:06_persona2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{09BDD90C-F9AD-405E-A92C-10756606D66D}|Unidad_2.csproj|c:\\users\\ceo\\documents\\github\\compartido\\ec\\2024-semestre-ii\\ed\\unidad_2\\05_calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09BDD90C-F9AD-405E-A92C-10756606D66D}|Unidad_2.csproj|solutionrelative:05_calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{09BDD90C-F9AD-405E-A92C-10756606D66D}|Unidad_2.csproj|c:\\users\\ceo\\documents\\github\\compartido\\ec\\2024-semestre-ii\\ed\\unidad_2\\04_pajaro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09BDD90C-F9AD-405E-A92C-10756606D66D}|Unidad_2.csproj|solutionrelative:04_pajaro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{09BDD90C-F9AD-405E-A92C-10756606D66D}|Unidad_2.csproj|c:\\users\\ceo\\documents\\github\\compartido\\ec\\2024-semestre-ii\\ed\\unidad_2\\03_animal3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09BDD90C-F9AD-405E-A92C-10756606D66D}|Unidad_2.csproj|solutionrelative:03_animal3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{09BDD90C-F9AD-405E-A92C-10756606D66D}|Unidad_2.csproj|c:\\users\\ceo\\documents\\github\\compartido\\ec\\2024-semestre-ii\\ed\\unidad_2\\02_animal2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09BDD90C-F9AD-405E-A92C-10756606D66D}|Unidad_2.csproj|solutionrelative:02_animal2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{09BDD90C-F9AD-405E-A92C-10756606D66D}|Unidad_2.csproj|c:\\users\\ceo\\documents\\github\\compartido\\ec\\2024-semestre-ii\\ed\\unidad_2\\01_animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{09BDD90C-F9AD-405E-A92C-10756606D66D}|Unidad_2.csproj|C:\\Users\\CEO\\Documents\\GitHub\\Compartido\\EC\\2024-Semestre-II\\ED\\Unidad_2\\01_animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{09BDD90C-F9AD-405E-A92C-10756606D66D}|Unidad_2.csproj|solutionrelative:01_animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Unidad_2||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{09BDD90C-F9AD-405E-A92C-10756606D66D}|Unidad_2.csproj|c:\\users\\ceo\\documents\\github\\compartido\\ec\\2024-semestre-ii\\ed\\unidad_2\\00_persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{09BDD90C-F9AD-405E-A92C-10756606D66D}|Unidad_2.csproj|solutionrelative:00_persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Unidad_2||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+      "AbsoluteMoniker": "D:0:0:{09BDD90C-F9AD-405E-A92C-10756606D66D}|Unidad_2.csproj|C:\\Users\\CEO\\Documents\\GitHub\\Compartido\\EC\\2024-Semestre-II\\ED\\Unidad_2\\05_calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09BDD90C-F9AD-405E-A92C-10756606D66D}|Unidad_2.csproj|solutionrelative:05_calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09BDD90C-F9AD-405E-A92C-10756606D66D}|Unidad_2.csproj|C:\\Users\\CEO\\Documents\\GitHub\\Compartido\\EC\\2024-Semestre-II\\ED\\Unidad_2\\06_persona2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09BDD90C-F9AD-405E-A92C-10756606D66D}|Unidad_2.csproj|solutionrelative:06_persona2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09BDD90C-F9AD-405E-A92C-10756606D66D}|Unidad_2.csproj|C:\\Users\\CEO\\Documents\\GitHub\\Compartido\\EC\\2024-Semestre-II\\ED\\Unidad_2\\07_persona3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09BDD90C-F9AD-405E-A92C-10756606D66D}|Unidad_2.csproj|solutionrelative:07_persona3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09BDD90C-F9AD-405E-A92C-10756606D66D}|Unidad_2.csproj|C:\\Users\\CEO\\Documents\\GitHub\\Compartido\\EC\\2024-Semestre-II\\ED\\Unidad_2\\08_composicion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09BDD90C-F9AD-405E-A92C-10756606D66D}|Unidad_2.csproj|solutionrelative:08_composicion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09BDD90C-F9AD-405E-A92C-10756606D66D}|Unidad_2.csproj|C:\\Users\\CEO\\Documents\\GitHub\\Compartido\\EC\\2024-Semestre-II\\ED\\Unidad_2\\04_pajaro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09BDD90C-F9AD-405E-A92C-10756606D66D}|Unidad_2.csproj|solutionrelative:04_pajaro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09BDD90C-F9AD-405E-A92C-10756606D66D}|Unidad_2.csproj|C:\\Users\\CEO\\Documents\\GitHub\\Compartido\\EC\\2024-Semestre-II\\ED\\Unidad_2\\03_animal3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09BDD90C-F9AD-405E-A92C-10756606D66D}|Unidad_2.csproj|solutionrelative:03_animal3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09BDD90C-F9AD-405E-A92C-10756606D66D}|Unidad_2.csproj|C:\\Users\\CEO\\Documents\\GitHub\\Compartido\\EC\\2024-Semestre-II\\ED\\Unidad_2\\02_animal2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09BDD90C-F9AD-405E-A92C-10756606D66D}|Unidad_2.csproj|solutionrelative:02_animal2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{09BDD90C-F9AD-405E-A92C-10756606D66D}|Unidad_2.csproj|c:\\users\\ceo\\documents\\github\\compartido\\ec\\2024-semestre-ii\\ed\\unidad_2\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
@@ -52,7 +52,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -60,78 +60,25 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "02_Animal2.cs",
-              "DocumentMoniker": "C:\\Users\\CEO\\Documents\\GitHub\\Compartido\\EC\\2024-Semestre-II\\ED\\Unidad_2\\02_Animal2.cs",
-              "RelativeDocumentMoniker": "02_Animal2.cs",
-              "ToolTip": "C:\\Users\\CEO\\Documents\\GitHub\\Compartido\\EC\\2024-Semestre-II\\ED\\Unidad_2\\02_Animal2.cs",
-              "RelativeToolTip": "02_Animal2.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGEAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-27T04:43:13.088Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "08_Composicion.cs",
-              "DocumentMoniker": "C:\\Users\\CEO\\Documents\\GitHub\\Compartido\\EC\\2024-Semestre-II\\ED\\Unidad_2\\08_Composicion.cs",
-              "RelativeDocumentMoniker": "08_Composicion.cs",
-              "ToolTip": "C:\\Users\\CEO\\Documents\\GitHub\\Compartido\\EC\\2024-Semestre-II\\ED\\Unidad_2\\08_Composicion.cs",
-              "RelativeToolTip": "08_Composicion.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-27T04:43:44.349Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "06_Persona2.cs",
-              "DocumentMoniker": "C:\\Users\\CEO\\Documents\\GitHub\\Compartido\\EC\\2024-Semestre-II\\ED\\Unidad_2\\06_Persona2.cs",
-              "RelativeDocumentMoniker": "06_Persona2.cs",
-              "ToolTip": "C:\\Users\\CEO\\Documents\\GitHub\\Compartido\\EC\\2024-Semestre-II\\ED\\Unidad_2\\06_Persona2.cs",
-              "RelativeToolTip": "06_Persona2.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-27T04:43:58.709Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "07_Persona3.cs",
               "DocumentMoniker": "C:\\Users\\CEO\\Documents\\GitHub\\Compartido\\EC\\2024-Semestre-II\\ED\\Unidad_2\\07_Persona3.cs",
               "RelativeDocumentMoniker": "07_Persona3.cs",
               "ToolTip": "C:\\Users\\CEO\\Documents\\GitHub\\Compartido\\EC\\2024-Semestre-II\\ED\\Unidad_2\\07_Persona3.cs",
               "RelativeToolTip": "07_Persona3.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAAFMAAAAJAAAA",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAmwFMAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-26T16:42:54.871Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-26T16:42:54.871Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "01_Animal.cs",
-              "DocumentMoniker": "C:\\Users\\CEO\\Documents\\GitHub\\Compartido\\EC\\2024-Semestre-II\\ED\\Unidad_2\\01_Animal.cs",
-              "RelativeDocumentMoniker": "01_Animal.cs",
-              "ToolTip": "C:\\Users\\CEO\\Documents\\GitHub\\Compartido\\EC\\2024-Semestre-II\\ED\\Unidad_2\\01_Animal.cs",
-              "RelativeToolTip": "01_Animal.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAF8AAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T12:39:07.179Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 2,
               "Title": "00_Persona.cs",
               "DocumentMoniker": "C:\\Users\\CEO\\Documents\\GitHub\\Compartido\\EC\\2024-Semestre-II\\ED\\Unidad_2\\00_Persona.cs",
               "RelativeDocumentMoniker": "00_Persona.cs",
               "ToolTip": "C:\\Users\\CEO\\Documents\\GitHub\\Compartido\\EC\\2024-Semestre-II\\ED\\Unidad_2\\00_Persona.cs",
               "RelativeToolTip": "00_Persona.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAABDAAAA",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAwwFQAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-22T12:25:50.212Z",
               "EditorCaption": ""
@@ -144,40 +91,75 @@
               "RelativeDocumentMoniker": "05_Calculadora.cs",
               "ToolTip": "C:\\Users\\CEO\\Documents\\GitHub\\Compartido\\EC\\2024-Semestre-II\\ED\\Unidad_2\\05_Calculadora.cs",
               "RelativeToolTip": "05_Calculadora.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAAfAAAA",
+              "ViewState": "AQIAADgAAAAAAAAAAAAIwDUAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-27T04:43:25.791Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-27T04:43:25.791Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "03_Animal3.cs",
               "DocumentMoniker": "C:\\Users\\CEO\\Documents\\GitHub\\Compartido\\EC\\2024-Semestre-II\\ED\\Unidad_2\\03_Animal3.cs",
               "RelativeDocumentMoniker": "03_Animal3.cs",
               "ToolTip": "C:\\Users\\CEO\\Documents\\GitHub\\Compartido\\EC\\2024-Semestre-II\\ED\\Unidad_2\\03_Animal3.cs",
               "RelativeToolTip": "03_Animal3.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAkwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-27T04:43:19.733Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-27T04:43:19.733Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "04_Pajaro.cs",
               "DocumentMoniker": "C:\\Users\\CEO\\Documents\\GitHub\\Compartido\\EC\\2024-Semestre-II\\ED\\Unidad_2\\04_Pajaro.cs",
               "RelativeDocumentMoniker": "04_Pajaro.cs",
               "ToolTip": "C:\\Users\\CEO\\Documents\\GitHub\\Compartido\\EC\\2024-Semestre-II\\ED\\Unidad_2\\04_Pajaro.cs",
               "RelativeToolTip": "04_Pajaro.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFYAAAAMAAAA",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAAwFYAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-26T15:14:12.667Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-26T15:14:12.667Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
+              "Title": "02_Animal2.cs",
+              "DocumentMoniker": "C:\\Users\\CEO\\Documents\\GitHub\\Compartido\\EC\\2024-Semestre-II\\ED\\Unidad_2\\02_Animal2.cs",
+              "RelativeDocumentMoniker": "02_Animal2.cs",
+              "ToolTip": "C:\\Users\\CEO\\Documents\\GitHub\\Compartido\\EC\\2024-Semestre-II\\ED\\Unidad_2\\02_Animal2.cs",
+              "RelativeToolTip": "02_Animal2.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAkwDsAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T04:43:13.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "08_Composicion.cs",
+              "DocumentMoniker": "C:\\Users\\CEO\\Documents\\GitHub\\Compartido\\EC\\2024-Semestre-II\\ED\\Unidad_2\\08_Composicion.cs",
+              "RelativeDocumentMoniker": "08_Composicion.cs",
+              "ToolTip": "C:\\Users\\CEO\\Documents\\GitHub\\Compartido\\EC\\2024-Semestre-II\\ED\\Unidad_2\\08_Composicion.cs",
+              "RelativeToolTip": "08_Composicion.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAADwvxUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T04:43:44.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "01_Animal.cs",
+              "DocumentMoniker": "C:\\Users\\CEO\\Documents\\GitHub\\Compartido\\EC\\2024-Semestre-II\\ED\\Unidad_2\\01_Animal.cs",
+              "RelativeDocumentMoniker": "01_Animal.cs",
+              "ToolTip": "C:\\Users\\CEO\\Documents\\GitHub\\Compartido\\EC\\2024-Semestre-II\\ED\\Unidad_2\\01_Animal.cs",
+              "RelativeToolTip": "01_Animal.cs",
+              "ViewState": "AQIAAF4AAAAAAAAAAAASwGgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T12:39:07.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Unidad_2",
               "DocumentMoniker": "C:\\Users\\CEO\\Documents\\GitHub\\Compartido\\EC\\2024-Semestre-II\\ED\\Unidad_2\\Unidad_2.csproj",
               "RelativeDocumentMoniker": "Unidad_2.csproj",
@@ -185,6 +167,19 @@
               "RelativeToolTip": "Unidad_2.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2024-05-27T13:00:44.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "06_Persona2.cs",
+              "DocumentMoniker": "C:\\Users\\CEO\\Documents\\GitHub\\Compartido\\EC\\2024-Semestre-II\\ED\\Unidad_2\\06_Persona2.cs",
+              "RelativeDocumentMoniker": "06_Persona2.cs",
+              "ToolTip": "C:\\Users\\CEO\\Documents\\GitHub\\Compartido\\EC\\2024-Semestre-II\\ED\\Unidad_2\\06_Persona2.cs",
+              "RelativeToolTip": "06_Persona2.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAmwCAAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T04:43:58.709Z",
               "EditorCaption": ""
             }
           ]
