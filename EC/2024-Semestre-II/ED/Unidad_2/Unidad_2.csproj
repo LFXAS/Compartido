@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Unidad_2.MainHerenciaSimple</StartupObject>
+    <StartupObject>Unidad_2.Composicion</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />

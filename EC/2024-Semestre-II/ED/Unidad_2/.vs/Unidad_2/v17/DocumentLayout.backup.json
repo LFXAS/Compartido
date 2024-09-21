@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\CEO\\Documents\\GitHub\\Compartido\\EC\\2024-Semestre-II\\ED\\Unidad_2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{09BDD90C-F9AD-405E-A92C-10756606D66D}|Unidad_2.csproj|C:\\Users\\CEO\\Documents\\GitHub\\Compartido\\EC\\2024-Semestre-II\\ED\\Unidad_2\\08_composicion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09BDD90C-F9AD-405E-A92C-10756606D66D}|Unidad_2.csproj|solutionrelative:08_composicion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Unidad_2||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Unidad_2||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+      "AbsoluteMoniker": "D:0:0:{09BDD90C-F9AD-405E-A92C-10756606D66D}|Unidad_2.csproj|C:\\Users\\CEO\\Documents\\GitHub\\Compartido\\EC\\2024-Semestre-II\\ED\\Unidad_2\\08_composicion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09BDD90C-F9AD-405E-A92C-10756606D66D}|Unidad_2.csproj|solutionrelative:08_composicion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{09BDD90C-F9AD-405E-A92C-10756606D66D}|Unidad_2.csproj|C:\\Users\\CEO\\Documents\\GitHub\\Compartido\\EC\\2024-Semestre-II\\ED\\Unidad_2\\07_persona3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -52,7 +52,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -154,25 +154,25 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "08_Composicion.cs",
               "DocumentMoniker": "C:\\Users\\CEO\\Documents\\GitHub\\Compartido\\EC\\2024-Semestre-II\\ED\\Unidad_2\\08_Composicion.cs",
               "RelativeDocumentMoniker": "08_Composicion.cs",
               "ToolTip": "C:\\Users\\CEO\\Documents\\GitHub\\Compartido\\EC\\2024-Semestre-II\\ED\\Unidad_2\\08_Composicion.cs",
               "RelativeToolTip": "08_Composicion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGIAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAswFAAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-27T04:43:44.349Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Unidad_2",
               "DocumentMoniker": "C:\\Users\\CEO\\Documents\\GitHub\\Compartido\\EC\\2024-Semestre-II\\ED\\Unidad_2\\Unidad_2.csproj",
               "RelativeDocumentMoniker": "Unidad_2.csproj",
-              "ToolTip": "C:\\Users\\CEO\\Documents\\GitHub\\Compartido\\EC\\2024-Semestre-II\\ED\\Unidad_2\\Unidad_2.csproj",
-              "RelativeToolTip": "Unidad_2.csproj",
+              "ToolTip": "C:\\Users\\CEO\\Documents\\GitHub\\Compartido\\EC\\2024-Semestre-II\\ED\\Unidad_2\\Unidad_2.csproj*",
+              "RelativeToolTip": "Unidad_2.csproj*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2024-05-27T13:00:44.207Z",
               "EditorCaption": ""
